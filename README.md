@@ -1,13 +1,10 @@
-### Olá! Eu sou Alice Dias
+## Olá, eu sou Alice!
 
-- 🔭 Cursando ciência da computação 
-- 🌱 Estudando HTML / CSS / JS
-- 😄 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/dias0pe">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=dias0pe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dias0pe&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=dias0pe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dias0pe&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
