@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/dias0pe">
-  <img flex-direction:"row" height="150em" src="https://github-readme-stats.vercel.app/api?username=dias0pe&show_icons=true&theme=transparent"/>
-  <img flex-direction:"row" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dias0pe&show_icons=true&theme=transparent"/>
+  <img flex-direction:"row" height="150em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true"/>
+  <img flex-direction:"row" height="150em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
